@@ -18,7 +18,7 @@ limitations under the License.
 
 (() => {
   const cacheVersion = '1'
-  const cacheName = `e-commerce-${cacheVersion}`
+  const cacheName = `e-commerce-v${cacheVersion}`
 
   const filesToCache = [
     '/',
